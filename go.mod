@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-exec
+module github.com/b0kar/xk6-exec
 
 go 1.24.0
 
