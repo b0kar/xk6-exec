@@ -2,7 +2,7 @@ module github.com/b0kar/xk6-exec
 
 go 1.24.0
 
-require go.k6.io/k6/v2 v2.0.0
+go.k6.io/k6 v1.0.0
 
 require (
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
